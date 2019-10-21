@@ -1,5 +1,5 @@
-# 1kg = 2.2046226218488 lbs
-weightKg = input('weight in kg: ')
-weightLbs = float(weightKg) * 2.2046226218488
-message = f'{weightKg}kg === {weightLbs}lbs'
-print(message)
+x = 12
+if 5 < x < 10:
+  print('Yeaap!')
+else:
+  print('Nope!')
